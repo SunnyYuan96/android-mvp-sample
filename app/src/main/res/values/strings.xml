@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageSearch</string>
+    <string name="search_text">SEARCH</string>
+    <string name="menu_swap_layout">Swap View</string>
+</resources>
